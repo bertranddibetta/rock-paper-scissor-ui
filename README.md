@@ -1,4 +1,4 @@
-# odin-rock-paper-scissor
+# odin-rock-paper-scissor-ui
 
 TODO - work on better commit names
  
